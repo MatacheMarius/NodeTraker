@@ -20,7 +20,7 @@
 The NoteTaker App creates and stores user's notes. The user simply writes a title and the notes and hits the save icon. The note will then render on the notes page. Notes can be deleted at anytime.
 
 ### Picture:
-![Picture](../assets/2.png) 
+![Picture](./notetraker/assets/2.png) 
 
 ### Picture:
 ![Picture](./assets/1.png) 
