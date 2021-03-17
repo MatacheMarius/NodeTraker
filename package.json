@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valiant87/Note-Taker.git"
+   
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/valiant87/Note-Taker/issues"
+
   },
-  "homepage": "https://github.com/valiant87/Note-Taker#readme"
+ 
 }
